@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ROOM MANAGEMENT" max_length="40" name="x_744472_murugan_r_room_management" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="javascript:global.getNextObjNumberPadded();" label="Room No" mandatory="true" max_length="40" name="number" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Room101" sequence="0" value="Room101"/>
+                <element inactive_on_update="false" label="Room102" sequence="1" value="Room102"/>
+                <element inactive_on_update="false" label="Room103" sequence="2" value="Room103"/>
+                <element inactive_on_update="false" label="Room104" sequence="3" value="Room104"/>
+                <element inactive_on_update="false" label="Room105" sequence="4" value="Room105"/>
+                <element inactive_on_update="false" label="Room106" sequence="5" value="Room106"/>
+                <element inactive_on_update="false" label="Room107" sequence="6" value="Room107"/>
+                <element inactive_on_update="false" label="Room108" sequence="7" value="Room108"/>
+                <element inactive_on_update="false" label="Room109" sequence="8" value="Room109"/>
+                <element inactive_on_update="false" label="Room110" sequence="9" value="Room110"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="ROOM NO" max_length="40" name="room_no" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Room101" sequence="0" value="Room101"/>
+                <element inactive_on_update="false" label="Room102" sequence="1" value="Room102"/>
+                <element inactive_on_update="false" label="Room103" sequence="2" value="Room103"/>
+                <element inactive_on_update="false" label="Room104" sequence="3" value="Room104"/>
+                <element inactive_on_update="false" label="Room105" sequence="4" value="Room105"/>
+                <element inactive_on_update="false" label="Room106" sequence="5" value="Room106"/>
+                <element inactive_on_update="false" label="Room107" sequence="6" value="Room107"/>
+                <element inactive_on_update="false" label="Room108" sequence="7" value="Room108"/>
+                <element inactive_on_update="false" label="Room109" sequence="8" value="Room109"/>
+                <element inactive_on_update="false" label="Room110" sequence="9" value="Room110"/>
+            </choice>
+        </element>
+        <element label="ROOM PHONE NUMBER" max_length="40" name="room_phone_number" type="phone_number_e164"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" choice="1" dependent="room_type" dependent_on_field="room_type" label="ROOM RENT" max_length="20" name="room_rent" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="delux" inactive_on_update="false" label="1500" sequence="0" value="1500"/>
+                <element dependent_value="non_delux" inactive_on_update="false" label="1000" sequence="1" value="1000"/>
+                <element dependent_value="normal_rooms" inactive_on_update="false" label="500" sequence="2" value="500"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="ROOM TYPE" max_length="40" name="room_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="DELUX AC" value="delux"/>
+                <element inactive_on_update="false" label="NON  DELUX" value="non_delux"/>
+                <element inactive_on_update="false" label="NORMAL ROOMS" value="normal_rooms"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="ROOM VACANCY" max_length="40" name="room_vacancy" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ROOM IS FREE" value="room_is_free"/>
+                <element inactive_on_update="false" label="ROOM OCCUPIED " value="room_occupied"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

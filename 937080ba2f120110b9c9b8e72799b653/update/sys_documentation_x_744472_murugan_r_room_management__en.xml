@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="ROOM MANAGEMENT" language="en" table="x_744472_murugan_r_room_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>ROOM MANAGEMENT</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <plural>ROOM MANAGEMENTs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:18:51</sys_created_on>
+            <sys_id>a0928cfa2f120110b9c9b8e72799b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ROOM MANAGEMENT</sys_name>
+            <sys_package display_value="MURUGAN REST HOUSE" source="x_744472_murugan_r">937080ba2f120110b9c9b8e72799b653</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</sys_scope>
+            <sys_update_name>sys_documentation_x_744472_murugan_r_room_management__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:18:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

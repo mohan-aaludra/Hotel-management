@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="employee_type" table="x_744472_murugan_r_employee_management" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>employee_type</element>
+            <name>x_744472_murugan_r_employee_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:23:39</sys_created_on>
+            <sys_id>fea30c3e2f120110b9c9b8e72799b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>employee_type</sys_name>
+            <sys_package display_value="MURUGAN REST HOUSE" source="x_744472_murugan_r">937080ba2f120110b9c9b8e72799b653</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</sys_scope>
+            <sys_update_name>sys_choice_x_744472_murugan_r_employee_management_employee_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:23:39</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employee_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ASSIT. GENRAL MANAGER</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_employee_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6a30c3e2f120110b9c9b8e72799b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:23:39</sys_updated_on>
+            <value>assit_genral_manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employee_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GENRAL MANAGER</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_employee_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36a30c3e2f120110b9c9b8e72799b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:23:39</sys_updated_on>
+            <value>genral_manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employee_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MANAGER</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_employee_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>baa30c3e2f120110b9c9b8e72799b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:23:39</sys_updated_on>
+            <value>manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employee_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ROOM BOY</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_employee_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36a30c3e2f120110b9c9b8e72799b671</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:23:39</sys_updated_on>
+            <value>room_boy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employee_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SUPERVISOR</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_employee_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32a30c3e2f120110b9c9b8e72799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:23:39</sys_updated_on>
+            <value>supervisor</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

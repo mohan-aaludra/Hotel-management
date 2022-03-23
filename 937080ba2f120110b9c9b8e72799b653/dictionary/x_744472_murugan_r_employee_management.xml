@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="EMPLOYEE MANAGEMENT" max_length="40" name="x_744472_murugan_r_employee_management" sizeclass="4" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="EMPLOYEE TYPE" max_length="40" name="employee_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ASSIT. GENRAL MANAGER" value="assit_genral_manager"/>
+                <element inactive_on_update="false" label="GENRAL MANAGER" value="genral_manager"/>
+                <element inactive_on_update="false" label="MANAGER" value="manager"/>
+                <element inactive_on_update="false" label="ROOM BOY" value="room_boy"/>
+                <element inactive_on_update="false" label="SUPERVISOR" value="supervisor"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="EMP ADDRESS" max_length="100" name="emp_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="EMP DATE OF BIRTH" max_length="40" name="emp_date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="EMP EMAIL ID" max_length="40" name="emp_email_id" type="string"/>
+        <element label="EMP MOBILE NUMBER" max_length="40" name="emp_mobile_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="EMP NAME " max_length="40" name="emp_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Emp ID" max_length="40" name="number" read_only="true" type="string"/>
+    </element>
+</database>

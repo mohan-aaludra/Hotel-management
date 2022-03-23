@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="room_no" table="x_744472_murugan_r_room_management" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>room_no</element>
+            <name>x_744472_murugan_r_room_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_id>c2f6d39f2fd20110b9c9b8e72799b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>room_no</sys_name>
+            <sys_package display_value="MURUGAN REST HOUSE" source="x_744472_murugan_r">937080ba2f120110b9c9b8e72799b653</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</sys_scope>
+            <sys_update_name>sys_choice_x_744472_murugan_r_room_management_room_no</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room101</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0af6d39f2fd20110b9c9b8e72799b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room101</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room102</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9af6d39f2fd20110b9c9b8e72799b66a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room102</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room103</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ef6d39f2fd20110b9c9b8e72799b66b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room103</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room104</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12f6d39f2fd20110b9c9b8e72799b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room104</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room105</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2f6d39f2fd20110b9c9b8e72799b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room105</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room106</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96f6d39f2fd20110b9c9b8e72799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room106</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room107</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52f61f9f2fd20110b9c9b8e72799b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room107</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room108</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16f61f9f2fd20110b9c9b8e72799b662</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room108</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room109</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6f61f9f2fd20110b9c9b8e72799b663</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room109</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>room_no</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room110</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_room_management</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 10:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9af61f9f2fd20110b9c9b8e72799b664</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 10:03:49</sys_updated_on>
+            <value>Room110</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

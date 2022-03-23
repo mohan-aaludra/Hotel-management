@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_string_1</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-22 08:36:19</sys_created_on>
+        <sys_id>6649b1432f924110b9c9b8e72799b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_string_1</sys_name>
+        <sys_package display_value="MURUGAN REST HOUSE" source="x_744472_murugan_r">937080ba2f120110b9c9b8e72799b653</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</sys_scope>
+        <sys_update_name>sys_ui_policy_action_6649b1432f924110b9c9b8e72799b6be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-22 08:36:19</sys_updated_on>
+        <table>x_744472_murugan_r_customer_relation_management</table>
+        <ui_policy display_value="Show when aadhar card selected">1e2735cf2f524110b9c9b8e72799b6d6</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

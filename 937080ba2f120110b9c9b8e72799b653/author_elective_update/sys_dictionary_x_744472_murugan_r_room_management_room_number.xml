@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="room_number" table="x_744472_murugan_r_room_management">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>ROOM NUMBER</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>true</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>room_number</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_744472_murugan_r_room_management</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-21 05:18:52</sys_created_on>
+        <sys_id>f4928cfa2f120110b9c9b8e72799b6bd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ROOM NUMBER</sys_name>
+        <sys_package display_value="MURUGAN REST HOUSE" source="x_744472_murugan_r">937080ba2f120110b9c9b8e72799b653</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</sys_scope>
+        <sys_update_name>sys_dictionary_x_744472_murugan_r_room_management_room_number</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-22 04:21:52</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</application>
+        <file_path/>
+        <instance_id>52f15726dbbc9890601a11f8489619fe</instance_id>
+        <instance_name>dev104149</instance_name>
+        <name>sys_dictionary_x_744472_murugan_r_room_management_room_number</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="room_number" table="x_744472_murugan_r_room_management"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>ROOM NUMBER</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>true</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>room_number</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_744472_murugan_r_room_management</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-21 05:18:52</sys_created_on><sys_id>f4928cfa2f120110b9c9b8e72799b6bd</sys_id><sys_mod_count>2</sys_mod_count><sys_name>ROOM NUMBER</sys_name><sys_package display_value="MURUGAN REST HOUSE" source="x_744472_murugan_r">937080ba2f120110b9c9b8e72799b653</sys_package><sys_policy/><sys_scope display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</sys_scope><sys_update_name>sys_dictionary_x_744472_murugan_r_room_management_room_number</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-22 04:21:52</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>956349535</payload_hash>
+        <record_name>ROOM MANAGEMENT.ROOM NUMBER</record_name>
+        <reverted_from/>
+        <source>1f7080ba2f120110b9c9b8e72799b654</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-22 04:21:52</sys_created_on>
+        <sys_id>631fbc072fde0110b9c9b8e72799b674</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fafdc1d590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-22 04:21:52</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>ab1fbc0730de01108de5be7ebdfea573</update_guid>
+        <update_guid_history>ab1fbc0730de01108de5be7ebdfea573:956349535,006e7007d9de01108b8b4416829e9e72:-846895280,45928cfa7f1201103e1b721b805ab9e5:314943679</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-22 07:27:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>40d20b22430242b79ffd455cdfe214e9</sys_id>
+        <sys_metadata>f4928cfa2f120110b9c9b8e72799b6bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ROOM NUMBER</sys_name>
+        <sys_package display_value="MURUGAN REST HOUSE" source="x_744472_murugan_r">937080ba2f120110b9c9b8e72799b653</sys_package>
+        <sys_parent display_value="ROOM MANAGEMENT">9c928cfa2f120110b9c9b8e72799b653</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</sys_scope>
+        <sys_scope_delete display_value="">3ee742865f0842c2b78e7827f3ec1749</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_744472_murugan_r_room_management_room_number</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_744472_murugan_r_room_management_room_number">631fbc072fde0110b9c9b8e72799b674</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-22 07:27:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

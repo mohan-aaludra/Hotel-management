@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CUSTOMER RELATION MANAGEMENT" max_length="40" name="x_744472_murugan_r_customer_relation_management" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="CUSTOMER ADDRESS" max_length="100" name="customer_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CUSTOMER FEEDBACK" max_length="4000" name="customer_feedback" type="journal"/>
+        <element label="CUSTOMER MOBILE NUMBER" max_length="40" name="customer_mobile_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="CUSTOMER NAME" max_length="40" name="customer_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="CUSTOMER PROOF" max_length="40" name="customer_proof" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AADHAR CARD" value="aadhar_card"/>
+                <element inactive_on_update="false" label="DRIVING LICENCE" value="driving_licence"/>
+                <element inactive_on_update="false" label="PAN CARD" value="pan_card"/>
+                <element inactive_on_update="false" label="VOTER ID" value="voter_id"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="NUMBER OF DAYS STAYING" max_length="40" name="number_of_days_staying" type="glide_duration"/>
+        <element label="NUMBER OF PERSONS" max_length="40" name="number_of_persons" type="integer"/>
+        <element attributes="encode_utf8=false" label="room no" max_length="32" name="room_no" reference="x_744472_murugan_r_room_management" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Aadhar Card No" max_length="12" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pan Card No" max_length="11" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Voter Id No" max_length="40" name="voter_id_no" type="string"/>
+        <index name="index">
+            <element name="room_no"/>
+        </index>
+    </element>
+</database>

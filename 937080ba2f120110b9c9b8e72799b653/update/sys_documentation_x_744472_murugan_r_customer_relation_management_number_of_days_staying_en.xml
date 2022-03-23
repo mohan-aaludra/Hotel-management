@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number_of_days_staying" label="NUMBER OF DAYS STAYING" language="en" table="x_744472_murugan_r_customer_relation_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number_of_days_staying</element>
+            <help/>
+            <hint/>
+            <label>NUMBER OF DAYS STAYING</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_customer_relation_management</name>
+            <plural>NUMBER OF DAYS STAYINGs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:31:48</sys_created_on>
+            <sys_id>c68580be2f120110b9c9b8e72799b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NUMBER OF DAYS STAYING</sys_name>
+            <sys_package display_value="MURUGAN REST HOUSE" source="x_744472_murugan_r">937080ba2f120110b9c9b8e72799b653</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</sys_scope>
+            <sys_update_name>sys_documentation_x_744472_murugan_r_customer_relation_management_number_of_days_staying_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:31:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="customer_proof" table="x_744472_murugan_r_customer_relation_management" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>customer_proof</element>
+            <name>x_744472_murugan_r_customer_relation_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:31:49</sys_created_on>
+            <sys_id>1a8580be2f120110b9c9b8e72799b6d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>customer_proof</sys_name>
+            <sys_package display_value="MURUGAN REST HOUSE" source="x_744472_murugan_r">937080ba2f120110b9c9b8e72799b653</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MURUGAN REST HOUSE">937080ba2f120110b9c9b8e72799b653</sys_scope>
+            <sys_update_name>sys_choice_x_744472_murugan_r_customer_relation_management_customer_proof</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:31:49</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer_proof</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AADHAR CARD</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_customer_relation_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:31:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e8580be2f120110b9c9b8e72799b6d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:31:49</sys_updated_on>
+            <value>aadhar_card</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer_proof</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DRIVING LICENCE</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_customer_relation_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:31:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a8580be2f120110b9c9b8e72799b6dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:31:49</sys_updated_on>
+            <value>driving_licence</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer_proof</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PAN CARD</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_customer_relation_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:31:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d28580be2f120110b9c9b8e72799b6e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:31:49</sys_updated_on>
+            <value>pan_card</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>customer_proof</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VOTER ID</label>
+            <language>en</language>
+            <name>x_744472_murugan_r_customer_relation_management</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-21 05:31:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de8580be2f120110b9c9b8e72799b6da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-21 05:31:49</sys_updated_on>
+            <value>voter_id</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
